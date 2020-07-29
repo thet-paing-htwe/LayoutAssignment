@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Application  one</string>
+    <string name="btn1">Button1</string>
+    <string name="description">Hello</string>
+    <string name="laketext">Oeschinen Lake Campground</string>
+    <string name="location">Kandersteg,Switzerland</string>
+    <string name="ratin">41</string>
+    <string name="paragraph">Oeschinen Lake or Oeschinensee as the Swiss call it, is one of the best lakes in Switzerland, if not on the earth. Oeschinen Lake lies in the Kandertal valley in Bernese Oberland region of Switzerland. If you love swimming, rowing, fishing and a barbeque by the lake, or just the breathtaking Alpine views, then this place must be on top of your Switzerland Bucketlist. Moreover, The mountains and valleys around here are an open invitation to serious hikers!</string>
+
+</resources>
